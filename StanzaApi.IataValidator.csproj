@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>StanzaApi.IataValidator</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Stanza</Authors>
+    <Description>Official zero-dependency, high-speed C# .NET client for IATA Air Cargo AWB & Aviation Validator</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://stanzaapi.com/tools/iata-validator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/stanzaapi/iata-validator-csharp</RepositoryUrl>
+    <PackageTags>iata;air-cargo;awb;aviation;airline-code;baggage-tag;e-ticket;mod-7;cargo-imp</PackageTags>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+</Project>
